@@ -30,3 +30,6 @@ bilgileri girilmesi doğrultusunda JWT oluşur ve HTTPONLY Cookie olarak ayarlan
 Token süresi resources/application.properties dosyası içinde saniye cinsinden ayarlanabilir.
 
 ## _EN_
+
+## Signature
+This project was created by emrerenJS.

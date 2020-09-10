@@ -1,0 +1,26 @@
+{
+  "users" : [
+    {
+      "username" : "foo",
+      "password" : "far",
+      "roles" : [
+          {"role" : "ROLE_ADMIN"},
+          {"role" : "ROLE_USER"}
+        ]
+    },
+    {
+      "username" : "roo",
+      "password" : "rar",
+      "roles" : [
+        {"role" : "ROLE_USER"}
+      ]
+    },
+    {
+      "username" : "koo",
+      "password" : "kar",
+      "roles" : [
+        {"role" : "ROLE_ADMIN"}
+      ]
+    }
+  ]
+}
